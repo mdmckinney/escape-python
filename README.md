@@ -1,5 +1,4 @@
-# escape-python
-Escape (Text Adventure Game) - Python
+# Escape (Text Adventure Game) - Python
 
 Michael D. McKinney
 
