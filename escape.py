@@ -38,7 +38,7 @@
 #######################################################################
 # 0 = DISABLED, 1 = ENABLED.  ENTER XYZZY AT ANY TIME DURING THE GAME
 # TO ACCESS THE DEBUG MENU.
-debugflag = 1
+debugflag = 0
 
 #######################################################################
 #            IMPORTING VARIOUS STUFF NEEDED FOR ESCAPE                #
