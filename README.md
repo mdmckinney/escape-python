@@ -4,7 +4,7 @@ Michael D. McKinney
 
 January 14, 2021
 
-(Updated September 28, 2022 - completely rewrote the code.)
+(Updated December 4, 2023 - fixed some typos.)
 
 A simple text adventure game that showcases the elements of a text adventure game such as movement, inventory, game states, clearing of screen, saving and loading save files, debugging/debug mode, etc.
 
