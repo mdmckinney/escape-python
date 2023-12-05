@@ -3,7 +3,7 @@
 #######################################################################
 # Michael D. McKinney
 # January 14, 2021
-# (Updated September 28, 2022 - completely rewrote the code.)
+# (Updated December 4, 2023 - fixed some typos.)
 #
 # A simple text adventure game that showcases the elements of a text
 # adventure game such as movement, inventory, game states, clearing of 
@@ -825,7 +825,7 @@ def inputhandler(player_input):
 			if game_states["roomid"] == 5:		
 
 				if game_states["tungstengate"] == 0:
-					print("The tungstengate is locked.")
+					print("The tungsten gate is locked.")
 
 				if game_states["tungstengate"] != 0:
 					game_states["escaped"] = 1
